@@ -32,10 +32,12 @@
             font-family: 'Poppins', sans-serif;
 			background-color: #337ab7;
         }
-
 		
-
-
+			
+		h2{
+			margin:0;
+		}
+		
 		.box {
 			min-width:650px ;
 			padding: 20px;
@@ -48,7 +50,10 @@
         .title {
             display: flex;
             justify-content: space-between;
+			align-items:center;
+			margin:2rem 0;
         }
+
 	</style>
 </head>
 
